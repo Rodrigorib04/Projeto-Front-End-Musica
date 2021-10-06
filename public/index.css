@@ -1,0 +1,53 @@
+
+.share{
+    position: absolute;
+    top: 5%;
+    left: 32%;
+    display: flex;
+    flex-wrap:nowrap ;
+    justify-content: flex-start;
+    align-items: center;
+    text-shadow: 5px 5px 5px white ;
+    box-shadow:5px 5px 5px white ;
+}
+.share p{
+  font-size:30px;
+  color:orange;
+  margin-right: 50px;
+  text-shadow: 5px 5px 5px white ;
+    box-shadow:5px 5px 5px white ;
+}
+
+.share .social a{
+    font-size: 25px;
+    align-items: center;
+display: inline-block;
+color:orange;
+margin-right: 30px;
+transition: transform .4s;
+text-shadow: 5px 5px 5px white ;
+    box-shadow:5px 5px 5px white ;
+}
+  .share .social :hover{
+    transform: scale(1.5);
+    text-shadow: 5px 5px 5px white ;
+    box-shadow:5px 5px 5px white ;
+}
+.rodape{
+    font-size: 15px;
+    color: orange;
+    position: absolute;
+    top: 130%;
+    left: 0%;
+    display: flex;
+    flex-wrap:nowrap ;
+    justify-content: flex-start;
+    align-items: center;
+    text-shadow: 5px 5px 5px white ;
+    box-shadow:5px 5px 5px white ;
+
+}
+h5{
+    margin-left: 10px;
+    font-size: 25px;
+}
